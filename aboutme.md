@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Zohreh Morshedizad
+subtitle: An Anesthesiologist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+After receiving my Doctor of Medicine (DM) from Yazd Shahid Sadoughi University of Medical Sciences (2012), I completed my education in Medical Science as Anesthesiologist four years later at Kerman University of Medical Sciences (2016). I continued my career as an anesthesiologist at Vali_e_Asr General Hospital, Shahr Babak, Kerman, from November 21, 2016, to September 11, 2018. Now, I am the anesthesiologist at Koohbanan General Hospital, Koohbanan, Kerman, Iran. I would like to continue my career as a researcher in anesthesiology and its related fields. I have been conducting a heart anesthesia fellowship at Shahid Rajaei Heart Center since September 2020.
