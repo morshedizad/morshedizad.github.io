@@ -17,14 +17,14 @@ navbar-links:
   About Me: "aboutme"
   Presentations:
     - Anesthesia for Left-to-Right Shunt Lesions: "/presentations/Left-to-Right_Shunt.pdf"
-    - HYPERKALEMIA:
-    - IABP:
-    - Pericardial diseases in patients with hypothyroidism:
-    - Non-Operating Room Anesthesia:
+    - HYPERKALEMIA: "/presentations/hyperkalemia.pdf"
+    - IABP: "/presentations/IABP/IABP.html"
+    - Pericardial diseases in patients with hypothyroidism: "/presentations/pericardial.pdf" 
+    - Non-Operating Room Anesthesia: "/presentations/Non_Operating_room.pdf" 
   Case Reports:
-    - A Case Report on DHCA:
-    - A Case Report on Post Bentall Aortic Aneurysm:
-    - A Case Report on VSD Closure + Lobectomy:
+    - A Case Report on DHCA: "/presentations/DHCA.pdf"
+    - A Case Report on Post Bentall Aortic Aneurysm: "/presentations/Post_bentall_disection.pdf"
+    - A Case Report on VSD Closure + Lobectomy: "/presentations/A Case Report on VSD Closure + Lobectomy.pdf"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
