@@ -1,0 +1,169 @@
+---
+title: "Case Report"
+author: "Zohreh Morshedizad"
+date: "12/15/2020"
+logo: logo.png
+output:
+  revealjs::revealjs_presentation:
+    theme: sky
+    highlight: pygments
+    center: true
+    self_contained: true
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+      menu:
+        numbers: true
+---
+
+## Patient Case Presentation
+
+
+- A 57 years old man with typical chest pain
+
+- 247 code (Cath-Lab)
+
+- PCI of RCA
+
+- Loss of Consciousness and Intubation
+
+- Cardiac Arrest and CPR
+
+- IABP Placement
+
+- Infusion Levofed
+
+- Operation Room 
+
+ 
+
+## Vital Sign
+
+- BP = 80/50
+
+- HR = 110
+
+- O2Sat = 92%
+
+
+## Lab Test
+
+- Na = 141
+- K = 2.8
+- Hb = 11.9
+- BS = 255
+- Lactat = 5.5
+- ABG
+  - PH = 7.13
+  - PO~2~ = 87
+  - PCO~2~ = 54
+  - HCO~3~ = 18
+  - BE = -11
+
+
+## Preoperation TEE
+- EF = 10-15% 
+
+- Moderate-Sever MR
+
+- No PE
+
+## Intra-aortic Balloon Pump 
+![alt text here](C:/Users/user/Desktop/iabp/pump.png)
+
+
+## Indications and Contraindications
+![alt text here](C:/Users/user/Desktop/iabp/table.png)
+
+
+## Arterial Waveforms During IABP assist
+![alt text here](C:/Users/user/Desktop/iabp/wave.png)
+
+
+## Indications for Placement
+
+- In the cardiac catheterization laboratory
+  - High-grade lesion of proximal coronary vessels
+  - MI occurs after an intervention 
+
+- LV failure despite moderate-to-high-dose inotropic support 
+
+- Evidence of ongoing regional myocardial ischemia
+
+## Contraindications to Placement
+
+- Aortic Insufficiency
+- Sepsis
+- Sever Vascular Disease
+
+## Functional Design
+
+- The balloon inflates during diastole
+
+- Increasing aortic diastole pressure 
+
+- Balloon inflation improves coronary perfusion pressure
+
+- During early systole, rapid balloon deflation reduces LV afterload
+
+## IABP Placement 
+
+- The balloon is ideally positioned so that its tip is at the junction of the descending aorta and the aortic arch
+
+- Radiographically the tip should lie between the anterior portion of the second intercostal space and the first lumbar vertebra
+
+- When the IABP is placed intraoperatively, TEE can confirm proper tip location before initiation of balloon assitance
+
+## IABP Control
+- Synchronization of the IABP
+  - Cardiac rhythm (EKG - Arterial Pressure waveform) 
+- Timing of Balloon Inflation and Deflation
+  - It is important to time the onset of the pressure rise caused by balloon inflation with the dicrotic notch of the arterial waveform
+- Ratio of Native Ventricle Pulsations to IABP Pulsation
+
+- Stroke Volume of the Balloon
+
+## Manipulation of Timing
+![alt text here](C:/Users/user/Desktop/iabp/ekg.png)
+
+
+## Normal Size Balloon
+![alt text here](C:/Users/user/Desktop/iabp/normal.png)
+
+## Balloon Too Large
+![alt text here](C:/Users/user/Desktop/iabp/large.png)
+
+## Balloon Too Small
+![alt text here](C:/Users/user/Desktop/iabp/small.png)
+
+## IABP Weaning
+
+- Weaning is done primarily by gradually decreasing the ratio of augmented to native heartbeats
+
+## Management of Anticoagulation During IABP Assistance
+
+- During extended IABP use, anticoagulation is generally indicated
+
+- If heparin is used, adequate anticoagulation should be confirmed every 4 to 6 hours with ACT or PTT
+
+## Complication
+
+- Limb Ischemia 
+- Compartment Syndrome
+- Mesenteric Infarction
+- Aortic Perforation
+- Aortic Dissection
+
+## IABP Complications
+![alt text here](C:/Users/user/Desktop/iabp/comp.png)
+
+## Risk Factors for Complication
+- Peripheral Vascular Disease
+- Female Gender
+- Tobacco Smoking 
+- DM  
+
+> Little old ladies and balloon pump  
+don't mix
+
+
