@@ -15,14 +15,15 @@ author: Zohreh Morshedizad
 
 navbar-links:
   About Me: "aboutme"
-  Presentations: 
+  Presentations:
     - Anesthesia for Left-to-Right Shunt Lesions:
-    - A Case Report on DHCA:
     - HYPERKALEMIA:
     - IABP:
     - Pericardial diseases in patients with hypothyroidism:
-    - A Case Report on Post Bentall Aortic Aneurysm:
     - Non-Operating Room Anesthesia:
+ Case Reports:
+    - A Case Report on DHCA:
+    - A Case Report on Post Bentall Aortic Aneurysm:
     - A Case Report on VSD Closure + Lobectomy:
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
