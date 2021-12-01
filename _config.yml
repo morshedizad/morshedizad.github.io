@@ -16,7 +16,7 @@ author: Zohreh Morshedizad
 navbar-links:
   About Me: "aboutme"
   Presentations:
-    - Anesthesia for Left-to-Right Shunt Lesions:
+    - Anesthesia for Left-to-Right Shunt Lesions: "/presentations/Left-to-Right_Shunt.pdf"
     - HYPERKALEMIA:
     - IABP:
     - Pericardial diseases in patients with hypothyroidism:
