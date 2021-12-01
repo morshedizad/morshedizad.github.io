@@ -44,7 +44,7 @@ navbar-links:
 social-network-links:
   email: "zmorshedizad@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+ # facebook: deanattali
   github: morshedizad
  # twitter: daattali
  # patreon: DeanAttali
@@ -65,7 +65,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-6147-4547
-  google-scholar: 1DBRXh0AAAAJ&hl=en&citsig=AMD79oqeS_vXPx2RoD8mtkK7u7QzFMKhBw
+  google-scholar: "1DBRXh0AAAAJ&hl=en&citsig=AMD79oqeS_vXPx2RoD8mtkK7u7QzFMKhBw"
 #  discord: invite/invite_code or users/userid 
 
 # If you want your website to generate an RSS feed, provide a description
