@@ -16,12 +16,18 @@ author: Zohreh Morshedizad
 navbar-links:
   About Me: "aboutme"
   Presentations: 
-    - hhh:
-    - hhhh:
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Anesthesia for Left-to-Right Shunt Lesions:
+    - A Case Report on DHCA:
+    - HYPERKALEMIA:
+    - IABP:
+    - Pericardial diseases in patients with hypothyroidism:
+    - A Case Report on Post Bentall Aortic Aneurysm:
+    - Non-Operating Room Anesthesia:
+    - A Case Report on VSD Closure + Lobectomy:
+  #Resources:
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
